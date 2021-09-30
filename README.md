@@ -1,7 +1,7 @@
 ### Hello, is there anybody in there? I'm Tássia 👋
 
 - 👩‍🎓 I’m currently studying Computer Science at UFV.
-- 🔭 I’m currently working as a intern at Braip.
+- 🔭 I’m currently working as an intern at Braip.
 - 💻 I’m currently learning Node.js, MySQL, React.js, JavaScript, HTML and CSS. 
 - 😄 Pronouns: she/her.
 - 📧 Contact me: tassiamaggv929@hotmail.com
