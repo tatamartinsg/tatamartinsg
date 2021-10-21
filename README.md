@@ -1,7 +1,7 @@
 
 <h1 align="center">✨Hello, is there anybody in there?✨ </h1>
 <div align="center">
-  <img height="120" width="150" src="https://i.im.ge/2021/10/15/orgMrS.png"/>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/r4VFcpZ/pinkflyd.png" alt="pinkflyd" border="0"></a>
  </div>
 
 - 👩‍🎓 I’m currently studying Computer Science at UFV.
