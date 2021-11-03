@@ -6,7 +6,7 @@
 
 - 👩‍🎓 I’m currently studying Computer Science at UFV.
 - 🖱 I’m currently working as an intern at Braip (KPG Group).
-- 💻 I’m currently learning Node.js, MySQL, React.js, JavaScript, HTML and CSS. 
+- 💻 I’m currently learning Node.js, MySQL, JavaScript, HTML and CSS. 
 - 😄 Pronouns: she/her.
 
 <div align="center">
@@ -20,7 +20,6 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Tata-Nodejs" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Tata-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tata-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tata-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
