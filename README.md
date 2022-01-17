@@ -4,11 +4,11 @@
   <a href="https://imgbb.com/"><img height="120px" src="https://rollingstone.uol.com.br/media/_versions/dark_side_of_the_moon_cortada_reproducao_widelg.jpg" alt="pinkflyd" border="0"></a>
  </div>
 
-- 👩‍🎓 I’m currently studying Computer Science at UFV.
-- 🖱 I’m currently working as an intern at Braip (KPG Group).
-- 💻 I’m currently learning Node.js, MySQL, JavaScript, HTML and CSS. 
-- 👾 Recently, I started learning Vue.js and React.Js.
-- 😄 Pronouns: she/her.
+- 👩‍🎓 I’m currently studying Computer Science at UFV;
+- 🖱 I’m currently working as an intern at Braip (KPG Group);
+- 💻 I’m currently learning Node.js, MySQL, JavaScript, HTML, CSS and Vue.js;
+- 👾 Recently, I started learning TypeScript and React.js;
+- 😄 Pronouns: she/her;
 
 <div align="center">
    <a href="https://github.com/tatamartinsg">
