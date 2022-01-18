@@ -6,7 +6,7 @@
 
 - 👩‍🎓 I’m currently studying Computer Science at UFV;
 - 🖱 I’m currently working as an intern at Braip (KPG Group);
-- 💻 I’m currently learning Node.js, MySQL, JavaScript, HTML, CSS and Vue.js;
+- 💻 I’m currently studying and working with Node.js, MySQL, JavaScript, HTML, CSS and Vue.js;
 - 👾 Recently, I started learning TypeScript and React.js;
 - 😄 Pronouns: she/her;
 
