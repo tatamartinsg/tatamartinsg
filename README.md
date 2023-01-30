@@ -6,7 +6,7 @@
 
 - 👩‍🎓 I’m currently studying Computer Science at UFV;
 - 💻 I’m currently studying and working with Node.js, MySQL, JavaScript, HTML, CSS and Vue.js;
-- 👾 Recently, I started learning TypeScript and React.js;
+- 👾 Recently, I started learning TypeScript, React.js and C#;
 - 😄 Pronouns: she/her;
 
 <div align="center">
